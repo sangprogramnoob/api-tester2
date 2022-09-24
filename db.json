@@ -1,0 +1,48 @@
+{
+    "status": 1,
+    "message": "Berhasil",
+    "data": [
+    {
+      "points": [
+        {
+          "id": 1,
+          "name": "Code of conduct"
+        },
+        {
+          "id": 2,
+          "name": "Troubleshooting indihome"
+        },
+        {
+          "id": 3,
+          "name": "Penampilan Rapi"
+        },
+        {
+          "id": 4,
+          "name": "Menggunakan K3 Lengkap"
+        },
+        {
+          "id": 5,
+          "name": "Instalasi sesuai SOP"
+        },
+        {
+          "id": 6,
+          "name": "Penyambungan Drop Core"
+        }
+      ],
+      "recommendations": [
+        {
+          "id": 1,
+          "name": "Teguran"
+        },
+        {
+          "id": 2,
+          "name": "Konseling"
+        },
+        {
+          "id": 3,
+          "name": "Surat Peringatan 1"
+        }
+      ]
+    }
+  ]
+}
