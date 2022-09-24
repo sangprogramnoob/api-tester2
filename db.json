@@ -1,5 +1,5 @@
 {
-    rating : {
+    "rating" : {
         "status": 1,
         "message": "Berhasil",
         "data": [
