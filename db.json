@@ -2,8 +2,7 @@
     "rating" : {
         "status": 1,
         "message": "Berhasil",
-        "data": [
-        {
+        "data": {
           "points": [
             {
               "id": 1,
@@ -45,6 +44,5 @@
             }
           ]
         }
-      ]
     }
 }
